@@ -1168,26 +1168,26 @@ Source: http://focus.ti.com/lit/ml/mpdi004a/mpdi004a.pdf</description>
 <wire x1="-7.62" y1="15.24" x2="7.62" y2="15.24" width="0.254" layer="94"/>
 <wire x1="7.62" y1="15.24" x2="7.62" y2="-12.7" width="0.254" layer="94"/>
 <wire x1="7.62" y1="-12.7" x2="-7.62" y2="-12.7" width="0.254" layer="94"/>
-<pin name="DIR" x="-5.08" y="12.7" visible="pin" length="middle" direction="in" rot="R180"/>
-<pin name="A1" x="-5.08" y="10.16" visible="pin" length="middle" rot="R180"/>
-<pin name="A2" x="-5.08" y="7.62" visible="pin" length="middle" rot="R180"/>
-<pin name="A3" x="-5.08" y="5.08" visible="pin" length="middle" rot="R180"/>
-<pin name="A4" x="-5.08" y="2.54" visible="pin" length="middle" rot="R180"/>
-<pin name="A5" x="-5.08" y="0" visible="pin" length="middle" rot="R180"/>
-<pin name="A6" x="-5.08" y="-2.54" visible="pin" length="middle" rot="R180"/>
-<pin name="A7" x="-5.08" y="-5.08" visible="pin" length="middle" rot="R180"/>
-<pin name="A8" x="-5.08" y="-7.62" visible="pin" length="middle" rot="R180"/>
-<pin name="GND" x="-5.08" y="-10.16" visible="pin" length="middle" direction="pas" rot="R180"/>
-<pin name="VCC" x="5.08" y="12.7" visible="pin" length="middle" direction="pas"/>
-<pin name="OE" x="5.08" y="10.16" visible="pin" length="middle" direction="in"/>
-<pin name="B1" x="5.08" y="7.62" visible="pin" length="middle"/>
-<pin name="B2" x="5.08" y="5.08" visible="pin" length="middle"/>
-<pin name="B3" x="5.08" y="2.54" visible="pin" length="middle"/>
-<pin name="B4" x="5.08" y="0" visible="pin" length="middle"/>
-<pin name="B5" x="5.08" y="-2.54" visible="pin" length="middle"/>
-<pin name="B6" x="5.08" y="-5.08" visible="pin" length="middle"/>
-<pin name="B7" x="5.08" y="-7.62" visible="pin" length="middle"/>
-<pin name="B8" x="5.08" y="-10.16" visible="pin" length="middle"/>
+<pin name="DIR" x="-10.16" y="12.7" visible="pad" length="middle" direction="in"/>
+<pin name="A1" x="-10.16" y="10.16" visible="pad" length="middle"/>
+<pin name="A2" x="-10.16" y="7.62" visible="pad" length="middle"/>
+<pin name="A3" x="-10.16" y="5.08" visible="pad" length="middle"/>
+<pin name="A4" x="-10.16" y="2.54" visible="pad" length="middle"/>
+<pin name="A5" x="-10.16" y="0" visible="pad" length="middle"/>
+<pin name="A6" x="-10.16" y="-2.54" visible="pad" length="middle"/>
+<pin name="A7" x="-10.16" y="-5.08" visible="pad" length="middle"/>
+<pin name="A8" x="-10.16" y="-7.62" visible="pad" length="middle"/>
+<pin name="GND" x="-10.16" y="-10.16" visible="pad" length="middle" direction="pas"/>
+<pin name="VCC" x="10.16" y="12.7" visible="pad" length="middle" direction="pas" rot="R180"/>
+<pin name="OE" x="10.16" y="10.16" visible="pad" length="middle" direction="in" rot="R180"/>
+<pin name="B1" x="10.16" y="7.62" visible="pad" length="middle" rot="R180"/>
+<pin name="B2" x="10.16" y="5.08" visible="pad" length="middle" rot="R180"/>
+<pin name="B3" x="10.16" y="2.54" visible="pad" length="middle" rot="R180"/>
+<pin name="B4" x="10.16" y="0" visible="pad" length="middle" rot="R180"/>
+<pin name="B5" x="10.16" y="-2.54" visible="pad" length="middle" rot="R180"/>
+<pin name="B6" x="10.16" y="-5.08" visible="pad" length="middle" rot="R180"/>
+<pin name="B7" x="10.16" y="-7.62" visible="pad" length="middle" rot="R180"/>
+<pin name="B8" x="10.16" y="-10.16" visible="pad" length="middle" rot="R180"/>
 <text x="-7.62" y="17.78" size="1.778" layer="94">&gt;NAME</text>
 <text x="-7.62" y="-17.78" size="1.778" layer="94">&gt;VALUE</text>
 </symbol>
