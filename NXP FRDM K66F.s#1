@@ -576,21 +576,21 @@
 </net>
 <net name="PROTO_GND" class="0">
 <segment>
-<wire x1="12.7" y1="76.2" x2="-7.62" y2="76.2" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="76.2" x2="-2.54" y2="76.2" width="0.1524" layer="91"/>
 <label x="-2.54" y="76.2" size="1.778" layer="95"/>
 <pinref part="J3" gate="G$1" pin="13"/>
 </segment>
 </net>
 <net name="PROTO_5V" class="0">
 <segment>
-<wire x1="12.7" y1="81.28" x2="-7.62" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="81.28" x2="-2.54" y2="81.28" width="0.1524" layer="91"/>
 <label x="-2.54" y="81.28" size="1.778" layer="95"/>
 <pinref part="J3" gate="G$1" pin="9"/>
 </segment>
 </net>
 <net name="PROTO_3V3" class="0">
 <segment>
-<wire x1="12.7" y1="88.9" x2="-7.62" y2="88.9" width="0.1524" layer="91"/>
+<wire x1="12.7" y1="88.9" x2="-2.54" y2="88.9" width="0.1524" layer="91"/>
 <label x="-2.54" y="88.9" size="1.778" layer="95"/>
 <pinref part="J3" gate="G$1" pin="3"/>
 </segment>
